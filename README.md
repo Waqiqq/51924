@@ -66,6 +66,6 @@ const luz = { encendido: true, desactivar: () => { luz.encendido = false; } };
 if (luz.encendido) luz.desactivar();
 
 Para ejecutarlo se debe clonar el repositorio: bash - git clone https://github.com/Waqiqq/51924
-Cambiar el directorio: bash - cd Analizador
+Cambiar el directorio: bash - cd 51924/Analizador
 ejecutar: bash - node index.js
 
