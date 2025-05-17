@@ -1,0 +1,1 @@
+cuando ventilador es encendido entonces ajustar ventilador a 9;
